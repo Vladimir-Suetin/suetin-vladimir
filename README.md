@@ -24,11 +24,14 @@
 <img style="height: 35px; align="left"" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
 
 <h2>Моя статистика:</h2>
+  <div width="100%">
 <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suetin-vladimir&theme=nord_dark">
-<div style="display: flex; justify-content: space-between; width: 100%">
-  <img style="width: 45%; display: block" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=suetin-vladimir&theme=nord_dark"> 
-  <img style="width: 45%; display: block" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=suetin-vladimir&theme=nord_dark">
+<div style="width: 100%">
+  <img style="width: 32%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=suetin-vladimir&theme=nord_dark&utcOffset=8"> 
+  <img style="width: 34%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=suetin-vladimir&theme=nord_dark">
+  <img style="width: 32%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=suetin-vladimir&theme=nord_dark">
 </div>
+  </div>
 
 - 👋 Hi, I’m @suetin-vladimir
 - 👀 I’m interested in ...
