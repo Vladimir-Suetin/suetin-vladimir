@@ -10,18 +10,18 @@
 
 <h2>Стек технологий:</h2>
 <div style="display: inline">
-<img style="height: 35px; align="left"" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img style="height: 35px; align="left"" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS5" />
-<img style="height: 35px; align="left"" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JAVASCRIPT" />
-<img style="height: 35px; align="left"" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="REACT" />
-<img style="height: 35px; align="left"" src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" alt="WEBPACK" />
+<img style="height: 35px; align: left" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img style="height: 35px; align: left" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS5" />
+<img style="height: 35px; align: left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JAVASCRIPT" />
+<img style="height: 35px; align: left" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="REACT" />
+<img style="height: 35px; align: left" src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" alt="WEBPACK" />
 </div>
 
 <h2>Использую инструменты:</h2>
 <div style="display: inline">
-<img style="height: 35px; align="left"" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="GIT" />
-<img style="height: 35px; align="left"" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="FIGMA" />
-<img style="height: 35px; align="left"" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
+<img style="height: 35px; align: left" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="GIT" />
+<img style="height: 35px; align: left" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="FIGMA" />
+<img style="height: 35px; align: left" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
 
 <h2>Моя статистика:</h2>
   <div width="100%">
@@ -36,8 +36,11 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-
-<img width=40px src="https://raw.githubusercontent.com/suetin-vladimir/suetin-vladimir/main/images/maildotru.svg" alt="Mail SVG" />  
+  
+<h2>Мои контакты:</h2>
+  <div style="display: inline">
+<img style="width: 15px; align: left" src="https://raw.githubusercontent.com/suetin-vladimir/suetin-vladimir/main/images/maildotru.svg" alt="Mail SVG" /><p style="width: 100px; align: left">Mail: suetin-vladimir@yandex.ru</p>
+   </div>
 
 ![](https://komarev.com/ghpvc/?username=suetin-vladimir&color=green&style=flat)
 
