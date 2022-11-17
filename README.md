@@ -38,7 +38,7 @@
 - 📫 How to reach me ...
   
 <h2>Мои контакты:</h2>
-  <div style="display: inline">
+  <div style="display: inline; width: 100%">
 <img style="width: 15px; align: left" src="https://raw.githubusercontent.com/suetin-vladimir/suetin-vladimir/main/images/maildotru.svg" alt="Mail SVG" /><p style="width: 100px; align: left">Mail: suetin-vladimir@yandex.ru</p>
    </div>
 
