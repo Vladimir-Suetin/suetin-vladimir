@@ -25,12 +25,10 @@
 
 <h2>Моя статистика:</h2>
   <div width="100%">
-<img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suetin-vladimir&theme=nord_dark">
-<div style="width: 100%">
+  <img width="98%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suetin-vladimir&theme=nord_dark">
   <img style="width: 32%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=suetin-vladimir&theme=nord_dark&utcOffset=8"> 
-  <img style="width: 34%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=suetin-vladimir&theme=nord_dark">
+  <img style="width: 32%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=suetin-vladimir&theme=nord_dark">
   <img style="width: 32%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=suetin-vladimir&theme=nord_dark">
-</div>
   </div>
 
 - 👋 Hi, I’m @suetin-vladimir
@@ -39,7 +37,9 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<img width=40px src="https://raw.githubusercontent.com/suetin-vladimir/suetin-vladimir/main/images/JAVASCRIPT.svg" alt="Typing SVG" />
+<img width=40px src="https://raw.githubusercontent.com/suetin-vladimir/suetin-vladimir/main/images/maildotru.svg" alt="Mail SVG" />  
+
+![](https://komarev.com/ghpvc/?username=suetin-vladimir&color=green&style=flat)
 
 <!---
 suetin-vladimir/suetin-vladimir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
