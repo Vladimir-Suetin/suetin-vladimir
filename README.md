@@ -32,10 +32,10 @@
   </div>
   
 <h2>Мои контакты:</h2>
-<p style="font-size: 35px">@Mail: suetin-vladimir@yandex.ru</p>
-
-![](https://komarev.com/ghpvc/?username=suetin-vladimir&color=green&style=flat)
-
+<p>Mail: suetin-vladimir@yandex.ru</p>
+<p align="center">
+<img style="width: 17%" src="https://komarev.com/ghpvc/?username=suetin-vladimir&color=green&style=flat">
+  </p>
 <!---
 suetin-vladimir/suetin-vladimir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
