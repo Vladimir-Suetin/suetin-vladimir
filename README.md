@@ -30,17 +30,9 @@
   <img style="width: 32%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=suetin-vladimir&theme=nord_dark">
   <img style="width: 32%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=suetin-vladimir&theme=nord_dark">
   </div>
-
-- 👋 Hi, I’m @suetin-vladimir
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
   
 <h2>Мои контакты:</h2>
-  <div style="display: inline; width: 100%">
-<img style="width: 15px; align: left" src="https://raw.githubusercontent.com/suetin-vladimir/suetin-vladimir/main/images/maildotru.svg" alt="Mail SVG" /><p style="width: 100px; align: left">Mail: suetin-vladimir@yandex.ru</p>
-   </div>
+<p style="font-size: 35px">@Mail: suetin-vladimir@yandex.ru</p>
 
 ![](https://komarev.com/ghpvc/?username=suetin-vladimir&color=green&style=flat)
 
