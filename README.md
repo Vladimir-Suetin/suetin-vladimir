@@ -25,18 +25,18 @@
 
 <h2>Моя статистика:</h2>
   <div width="100%">
-  <img width="98%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suetin-vladimir&theme=nord_dark">
-  <img style="width: 32%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=suetin-vladimir&theme=nord_dark&utcOffset=8"> 
-  <img style="width: 32%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=suetin-vladimir&theme=nord_dark">
-  <img style="width: 32%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=suetin-vladimir&theme=nord_dark">
+  <img width="98%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vladimir-suetin&theme=nord_dark">
+  <img style="width: 32%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vladimir-suetin&theme=nord_dark&utcOffset=8"> 
+  <img style="width: 32%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vladimir-suetin&theme=nord_dark">
+  <img style="width: 32%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vladimir-suetin&theme=nord_dark">
   </div>
   
 <h2>Мои контакты:</h2>
 <p>Mail: suetin-vladimir@yandex.ru</p>
 <p align="center">
-<img style="width: 17%" src="https://komarev.com/ghpvc/?username=suetin-vladimir&color=green&style=flat">
+<img style="width: 17%" src="https://komarev.com/ghpvc/?username=vladimir-suetin&color=green&style=flat">
   </p>
 <!---
-suetin-vladimir/suetin-vladimir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+vladimir-suetin/vladimir-suetin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
