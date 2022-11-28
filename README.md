@@ -32,7 +32,7 @@
   </div>
   
 <h2>Мои контакты:</h2>
-<p>Mail: suetin-vladimir@yandex.ru</p>
+<p>Mail: suetin@proxbox.ru</p>
 <p align="center">
 <img style="width: 17%" src="https://komarev.com/ghpvc/?username=vladimir-suetin&color=green&style=flat">
   </p>
